@@ -1,0 +1,4 @@
+
+lsblk
+
+sudo ntfsfix /dev/sdb1
